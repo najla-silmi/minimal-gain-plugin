@@ -27,7 +27,7 @@ $$
 $$
 
 ### Justifying the use of dB in plugins using human perception
-While linear gain factors can work for gain sliders in JUCE, decibel values can make a bit more sense. When working with hearing aids and studying human loudness perception, I learn three rules that helped me understand the relationships between gain and perceived loudness (and make sure I wasn't going crazy with gain adjustments): <br>
+While linear gain factors can work for gain sliders in JUCE, decibel values can make a bit more sense. When working with hearing aids and studying human loudness perception, I learned three rules that helped me understand the relationships between gain and perceived loudness (and make sure I wasn't going crazy with gain adjustments): <br>
 1. A 3dB increase in a signal is a doubling in sound intensity, and is a clearly noticeable difference for most people.
 2. A 6dB increase in a signal is a doubling in sound pressure. Doubling distance from a sound source decreases the sound pressure by 6dB, while halving distance from a sound source increases the sound pressure by 6dB.
 3. A 10dB increase in a signal is perceived as a doubling in loudness.
