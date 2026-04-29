@@ -3,7 +3,7 @@
 # Using the Minimal Gain Plugin 
 
 ## What it is 
-The Minimal Gain Plugin provides an introduction to the effects of gain, specifically on soft clip saturation. As the same suggests, it includes a basic UI with three controls: 
+The Minimal Gain Plugin provides an introduction to the effects of gain, specifically on soft clip saturation. As the name suggests, it includes a basic UI with three controls: 
 1. Input gain
 2. Normalized soft clip saturation, a common type of gradual saturation.
 3. Output gain <br>
