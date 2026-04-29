@@ -1,0 +1,16 @@
+# JUCE build output (IMPORTANT)
+Builds/
+Binaries/
+Intermediate/
+
+# Compiled files
+*.a
+*.o
+*.dylib
+*.dll
+*.exe
+*.app
+
+# OS junk
+.DS_Store
+Thumbs.db
