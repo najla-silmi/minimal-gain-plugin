@@ -7,7 +7,9 @@ The Minimal Gain Plugin provides an introduction to the effects of gain, specifi
 1. Input gain
 2. Normalized soft clip saturation, a common type of gradual saturation.
 3. Output gain <br>
+
 As well as basic parameter smoothing and decibel to linear gain factor conversion using the Decibels class in JUCE. <br>
+<br>
 This plugin is geared towards those just geting started with JUCE/DSP, and those who want to gain an understanding of gain from a perceptual and hands-on perspective.
 
 ## How to use 
